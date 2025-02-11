@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "PORTFOLIO Portfolio",
+  "name": "Sloth.Dev Portfolio",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -85,7 +85,8 @@
   ],
   "footerSocials": {
     "discord": "https://x.com/mintlify",
-    "github": "https://github.com/andyuan997",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "email": "https://linkedin.com/company/mintlify",
+    "github": "https://github.com/andyuan997"
+    
   }
 }
