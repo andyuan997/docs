@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:andyuan997@gmail.com"
+      "url": "https://slothdevelop.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Website",
-    "url": "https://slothdevelop.com"
+    "name": "Connect",
+    "url": "mailto:andyuan997@gmail.com"
   },
   "tabs": [
     {
@@ -33,19 +33,14 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Github",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://github.com/andyuan997"
     },
     {
-      "name": "Community",
+      "name": "Apple Developer",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://apps.apple.com/tw/developer/wei-chien-yuan/id1715261737"
     }
   ],
   "navigation": [
@@ -85,8 +80,8 @@
   ],
   "footerSocials": {
     "discord": "https://x.com/mintlify",
-    "email": "https://linkedin.com/company/mintlify",
-    "github": "https://github.com/andyuan997"
+    "github": "https://github.com/andyuan997",
+    "website": "https://slothdevelop.com/"
     
   }
 }
